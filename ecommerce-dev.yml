@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:h2:tcp://localhost/~/test
-    username: '{cipher}9df4e24da1dcb9cce6da9058c786fde57b3ee59002fdc828df2724e23f41e2f4'
+    username: '{cipher}AQAlrlc+EQ0ORlWbulC7AXfO+p2UC1BQ0T6m+j7v/6EsYFUTExcZgmPLHTLJ7+Z7nEHP5shrj8v3a9jX3wbVppgqBDwPYny5OjjyfeUX8+gPkA/G8JX9BNDmI29KNeJYBifvjQ/j0OU3zL1kNlWNnOeXvAMcRf2depoutzaSz7ghQUSviAVPJUR/+E01ZYRR29ZgNKjgPaNFast7UYyJBXux6LBISUbGgGya0v1EYNHWZgai0FVsNfkH7s+ZUSbT/pUSSrLHe3JMl5o8O+SYfyEwCXkl6r659uJcF+OHjUNpbEvYZHDDp64RLRjn2r5zkNeS3acgJdsUonpZTjHJnKP8TB5hgcUoHyEOSPmv464p2FclKIDmxoCPhmN4OukkrQw='
     password:
     driver-class-name: org.h2.Driver
 
