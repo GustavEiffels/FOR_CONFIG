@@ -1,3 +1,6 @@
+setting:
+  file: ecommerce-prod
+
 token:
   expiration_time: 777777
   secret: a2FyaW10b2thcmltdG9rYXJpbXRva2FyaW10b2thcmltdG9rYXJpbXRva2FyaW10b2thcmltdG9rYXJpbXRva2FyaW10b2thcmltdG9rYXJpbXRva2FyaW10b2thcmltdG9rYXJpbXRva2FyaW10b2thcmltdG9rYXJpbXRva2FyaW10b2thcmltdG9rYXJpbQ==
@@ -7,3 +10,4 @@ gateway:
 
 application:
   environment: production_#3
+
