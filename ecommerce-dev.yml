@@ -17,6 +17,8 @@ application:
 
 order_service:
   url: http://order-service/order-service/%s/orders
+  exception:
+    order_is_empty: ORDER IS EMPTY!!
 
 setting:
   file: ecommerce-dev
